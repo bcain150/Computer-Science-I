@@ -1,0 +1,32 @@
+Slytherin, Regulus Black
+Ravenclaw, Cho Chang
+Ravenclaw, Roger Davies
+Hufflepuff, Cedric Diggory
+Gryffindor, Lily Evans
+Gryffindor, Hermione Granger
+Gryffindor, Rubeus Hagrid
+Gryffindor, Hedwig
+Ravenclaw, Gilderoy Lockhart
+Ravenclaw, Luna Lovegood
+Gryffindor, Remus Lupin
+Slytherin, Draco Malfoy
+Slytherin, Lucius Malfoy
+Gryffindor, Minerva McGonagall
+Slytherin, Merlin 
+Ravenclaw, Padma Patil
+Gryffindor, Parvati Patil
+Gryffindor, Harry Potter
+Gryffindor, James Potter
+Slytherin, Tom Marvolo
+Hufflepuff, Newt Scamander
+Slytherin, Rita Skeeter
+Slytherin, Severus Snape
+Hufflepuff, Pomona Sprout
+Slytherin, Andromeda Tonks
+Hufflepuff, Nymphadora Tonks
+Ravenclaw, Sybill Trelawney
+Ravenclaw, Myrtle Warren
+Gryffindor, Fred Weasley
+Gryffindor, George Weasley
+Gryffindor, Ginny Weasley
+Gryffindor, Ron Weasley

@@ -1,0 +1,57 @@
+# File: proj1.py
+# Author: Brendan Cain
+# Date: 11-7-16
+# Section: 22
+# E-mail: bcain1@umbc.edu
+# Description: allows two players to play connect4
+# Collaboration: Collaboration was not allowed on this assig
+
+#printBoard() prints the current contents of the connect 4 board
+#input: a 2D array
+#output: nothing
+
+def printBoard(con4Array):
+    print()
+    # use a double for loop to print each place on the board
+    # use a range function with a negative step to move backwards
+    # in the list so that the bottom of the board is closest to 
+    # the bottom of the screen
+    for r in range(len(con4Array)-1,-1,-1):
+        rowStr = " " #add a blank space between every board space.
+        for col in con4Array[r]:
+            rowStr += (col + " ")
+        #prints the whole row
+        print(rowStr)
+    #end for loops
+    print()
+#end def printBoard()
+
+# createBoard() creates a connect 4 board with dimensions greater than 5x5
+# input: nothing
+# output: a 2D array connect4 board
+
+def createBoard():
+    #constants
+    MIN_NUM = 5
+    EMPTY_SPACE = "_"
+    #prompt for rows and check validity using while loop
+    print("Please choose the number of rows: ")
+    msg = "Please enter a number greater than or equal to "+str(MIN_NUM)+": "
+    row = int(input(msg))
+    while row < MIN_NUM:
+        row = int(input(msg))
+    #prompt for columns and check validity using a while loop
+    print("Please chose the number of columns: ")
+    column = int(input(msg))
+    while column < MIN_NUM:
+        column = int(input(msg))
+    #creates the board
+    
+
+def main():
+    EMPTY_SPACE = "_"
+    board = [[EMPTY_SPACE]*5]*5
+    printBoard(board)
+
+main()
+

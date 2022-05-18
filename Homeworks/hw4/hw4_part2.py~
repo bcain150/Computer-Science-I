@@ -1,0 +1,10 @@
+# File:          hw4_part2.py
+# Author:        Brendan Cain
+# Date:          10/3/16
+# Section:       22
+# E-mail:        bcain1@umbc.edu
+# Description:   Do modulus without using the mod operator "%"
+# Collaboration: Collaboration was not allowed on this assignment.
+
+def main():
+    

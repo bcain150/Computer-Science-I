@@ -1,0 +1,13 @@
+#File:          hw2_part2.py
+#Author:        Brendan Cain
+#Date:          9/21/16
+#Section:       22
+#E-mail:        bcain1@umbc.edu
+#Description:   This program takes a give price and then extracts the dollars
+#               from the cents and displays the amount of each as integers.
+#Collaboration: Collaboration was not allowed on this assignment.
+
+def main():
+
+    myFloat = float(input("What is the price?: ")
+    myInt = int

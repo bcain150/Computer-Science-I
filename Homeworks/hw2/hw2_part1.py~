@@ -1,0 +1,12 @@
+#File:          hw2_part1.py
+#Author:        Brendan Cain
+#Date:          9/21/16
+#Section:       22
+#E-mail:        bcain1@umbc.edu
+#Description:   This program calculates the total cost to buy and ship a large 
+#               order of books from an online bookstore.
+#Collaboration: Collaboration was not allowed on this assignment.
+
+TAX = 0.06
+SHIPPING = 6.95
+# 

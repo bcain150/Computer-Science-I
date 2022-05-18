@@ -1,0 +1,20 @@
+Greyjoy, Asha Greyjoy
+Greyjoy, Balon Greyjoy
+Greyjoy, Theon Greyjoy
+Lannister, Cersei Lannister
+Lannister, Jaime Lannister
+Lannister, Joffrey Baratheon
+Lannister, Tyrion Lannister
+Lannister, Tywin Lannister
+Stark, Arya Stark
+Stark, Catelyn Stark
+Stark, Jon Snow
+Stark, Ned Stark
+Stark, Sansa Stark
+Targaryen, Aerys II Targaryen
+Targaryen, Daenerys Targaryen
+Targaryen, Viserys Targaryen
+Tyrell, Loras Tyrell
+Tyrell, Mace Tyrell
+Tyrell, Margaery Tyrell
+Tyrell, Olenna Tyrell
